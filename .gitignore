@@ -1,0 +1,27 @@
+# Flutter/Dart generated files
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/Generated.xcconfig
+**/flutter_export_environment.sh
+
+# Android local and generated files
+**/local.properties
+**/.gradle/
+**/captures/
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# IDE and operating system files
+**/.idea/
+**/*.iml
+.DS_Store
+Thumbs.db
+
+# Local environment and secret files
+**/.env
+**/.env.*
+!**/.env.example
+**/*service-account*.json

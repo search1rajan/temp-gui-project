@@ -1,0 +1,14 @@
+name: flutter_app_ui
+description: GUI-only Flutter app concept inspired by the supplied reference.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
